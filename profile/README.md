@@ -1,3 +1,0 @@
-# Kanba
-
-Loading repositories...
