@@ -1,11 +1,35 @@
 # Kanba
 
-## Public Repositories
+> Trader • AI Builder • Web Automation Engineer
 
-- [0xKanba](https://github.com/0xKanba/0xKanba) - No description
-- [younis.pw](https://github.com/0xKanba/younis.pw) - No description
-- [kanba.pw](https://github.com/0xKanba/kanba.pw) - No description
-- [shop](https://github.com/0xKanba/shop) - No description
-- [alerts.discord](https://github.com/0xKanba/alerts.discord) - No description
-- [Prop.Degreeforex.com](https://github.com/0xKanba/Prop.Degreeforex.com) - No description
-- [offline.water](https://github.com/0xKanba/offline.water) - No description
+## 📊 Overview
+
+- 📦 Total Repositories: **7**
+- ⭐ Total Stars: **0**
+- 🍴 Total Forks: **0**
+
+## 🚀 Top Projects
+
+| Project | Stars | Forks | Language |
+|--------|------|------|----------|
+| [0xKanba](https://github.com/0xKanba/0xKanba) | ⭐ 0 | 🍴 0 | JavaScript |
+| [younis.pw](https://github.com/0xKanba/younis.pw) | ⭐ 0 | 🍴 0 | CSS |
+| [kanba.pw](https://github.com/0xKanba/kanba.pw) | ⭐ 0 | 🍴 0 | HTML |
+| [shop](https://github.com/0xKanba/shop) | ⭐ 0 | 🍴 0 | HTML |
+| [alerts.discord](https://github.com/0xKanba/alerts.discord) | ⭐ 0 | 🍴 0 | JavaScript |
+| [Prop.Degreeforex.com](https://github.com/0xKanba/Prop.Degreeforex.com) | ⭐ 0 | 🍴 0 | — |
+
+## 📁 All Repositories
+
+| Repository | Description | Stars | Language |
+|------------|-------------|-------|----------|
+| [0xKanba](https://github.com/0xKanba/0xKanba) | — | ⭐ 0 | JavaScript |
+| [younis.pw](https://github.com/0xKanba/younis.pw) | — | ⭐ 0 | CSS |
+| [kanba.pw](https://github.com/0xKanba/kanba.pw) | — | ⭐ 0 | HTML |
+| [shop](https://github.com/0xKanba/shop) | — | ⭐ 0 | HTML |
+| [alerts.discord](https://github.com/0xKanba/alerts.discord) | — | ⭐ 0 | JavaScript |
+| [Prop.Degreeforex.com](https://github.com/0xKanba/Prop.Degreeforex.com) | — | ⭐ 0 | — |
+| [offline.water](https://github.com/0xKanba/offline.water) | — | ⭐ 0 | TypeScript |
+
+---
+*Auto-generated profile powered by GitHub Actions*
